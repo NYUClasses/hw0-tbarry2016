@@ -22,7 +22,7 @@ It should look something like this:
 2. 
   * *Armchair Expert*
 3. 
-  * [My Github Repo](https://github.com/tbarry2016)
+  * [My Github Repo](https://github.com/NYUClasses/hw0-tbarry2016)
   
 Once you are done, commit your changes, and push to GitHub. 
 
